@@ -1,0 +1,7 @@
+header {
+    background-image: linear-gradient(to bottom, rgb(52, 184, 111), rgb(26, 92, 56));  
+}
+
+header > h1 {
+    margin-left: auto;
+}
